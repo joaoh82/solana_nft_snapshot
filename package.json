@@ -1,7 +1,7 @@
 {
   "name": "solana_nft_snapshot",
   "version": "1.0.0",
-  "description": "Takes a snapshot of Solana NFT holders based on the mint token ida",
+  "description": "Takes a snapshot of Solana NFT holders based on the mint token id",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
